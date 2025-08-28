@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Dushmin Malisha!
+<h1 align="center">👋 Hi, I’m Dushmin Malisha!</h1>
 
 I am a keen learner who is interested in all sorts of things about computer engineering.
 <!---
