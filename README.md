@@ -10,6 +10,6 @@ Sri Lanka's Most Active GitHub Users Rank: [![committers.top badge](https://user
 Sri Lanka's Most Contributions GitHub Users Rank: [![committers.top badge](https://user-badge.committers.top/sri_lanka_public/Malisha4065.svg)](https://user-badge.committers.top/sri_lanka_public/Malisha4065)
 
 <hr>
-<p align="center">![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malisha4065&theme=default)</p>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malisha4065&theme=default" alt="Most commit language" /></p>
 <br>
 ![](https://komarev.com/ghpvc/?username=Malisha4065)
