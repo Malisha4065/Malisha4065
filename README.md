@@ -6,9 +6,19 @@ Malisha4065/Malisha4065 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <hr>
-<p>Sri Lanka's Most Active GitHub Users Rank: <img src="https://user-badge.committers.top/sri_lanka/Malisha4065.svg" /></p>
+<p>
+  Sri Lanka's Most Active GitHub Users Rank: 
+  <a href="https://user-badge.committers.top/sri_lanka/Malisha4065">
+    <img src="https://user-badge.committers.top/sri_lanka/Malisha4065.svg" alt="Sri Lanka's Most Active GitHub Users Rank"/>
+  </a>
+</p>
 
-<p>Sri Lanka's Most Contributions GitHub Users Rank: <img src="https://user-badge.committers.top/sri_lanka_public/Malisha4065.svg" /></p>
+<p>
+  Sri Lanka's Most Contributions GitHub Users Rank: 
+  <a href="https://user-badge.committers.top/sri_lanka_public/Malisha4065">
+    <img src="https://user-badge.committers.top/sri_lanka_public/Malisha4065.svg" alt="Sri Lanka's Most Contributions GitHub Users Rank"/>
+  </a>
+</p>
 
 <hr>
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malisha4065&theme=nord_dark" alt="Most commit language" />
